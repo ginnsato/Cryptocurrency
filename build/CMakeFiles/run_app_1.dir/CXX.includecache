@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/CSCI2270/project-moneymoves/app_1/main_1.cpp
+iostream
+-
+fstream
+-
+../code_1/Blockchain.hpp
+/home/jovyan/CSCI2270/project-moneymoves/code_1/Blockchain.hpp
+
+/home/jovyan/CSCI2270/project-moneymoves/code_1/Block.hpp
+iostream
+-
+vector
+-
+Transaction.hpp
+/home/jovyan/CSCI2270/project-moneymoves/code_1/Transaction.hpp
+
+/home/jovyan/CSCI2270/project-moneymoves/code_1/Blockchain.hpp
+iostream
+-
+Block.hpp
+/home/jovyan/CSCI2270/project-moneymoves/code_1/Block.hpp
+Transaction.hpp
+/home/jovyan/CSCI2270/project-moneymoves/code_1/Transaction.hpp
+vector
+-
+
+/home/jovyan/CSCI2270/project-moneymoves/code_1/Transaction.hpp
+iostream
+-
+
