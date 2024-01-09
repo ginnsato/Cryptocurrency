@@ -31,7 +31,7 @@ Navigate to build folder and run:
 
 Then run:
 
-    "build"
+    "make"
 
 Now we can run it with:
 
