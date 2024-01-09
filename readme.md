@@ -20,3 +20,19 @@ Users can create their own main function to interact with the blockchain. When y
 Once addresses have been rewarded currency by mining blocks, they can transfer this currency amongst each other by addTransaction() and users of the program can keep track of the blockchain with prettyPrint(). 
 
 We implemented a simple main function that allows users to interact with the blockchain. You can add transactions, mine blocks, and check if the chain is valid. Each iteration will print out the blockchain for the user to view. 
+
+
+
+# In order to run the program:
+
+Navigate to build folder and run:
+
+    "cmake .."
+
+Then run:
+
+    "build"
+
+Now we can run it with:
+
+    "./run_app_1"
